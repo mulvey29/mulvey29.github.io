@@ -2,7 +2,7 @@ a {
    color: #202fd4;
  }
 
-.ben {
+img {
 	border-radius: 50%;
 	max-width: 100%;
 	height: auto;
@@ -116,15 +116,32 @@ PAGE:
 **************************************/
 .mydiv {background: lightblue; width:250px; height: 250px;}
 
+.sophia {
+    float:left;
+    width:150px;
+    height:175px;
+    margin:20px;
+    border-radius: 20px;
+}
 
-
+.ben {
+    display: block;
+    max-width: 250px;
+    margin: 0 auto 30px;
+    border-radius: 5px;
+}
 
 
 
  /*************************************
 PAGE: ABOUT
 **************************************/
-
+.kayla_and_i {
+    display: block;
+    max-width: 400px;
+    margin: 0 auto 30px;
+    border-radius: 5px;
+}
 
 /*************************************
 COLORS
