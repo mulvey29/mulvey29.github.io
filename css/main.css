@@ -10,7 +10,8 @@ img {
 }
 
  body {
-	background-image: url(2.jpg); 
+	background-image: url(ok.jpg); 
+	background-repeat: repeat-y;
 	background-attachment: fixed;
    font-family: 'Open Sans', sans-serif;
  }
