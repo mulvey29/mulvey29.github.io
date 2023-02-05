@@ -1,4 +1,4 @@
-#grad {
+#gradient {
 	background-image: linear-gradient(#fcfcfc, #bcc1f7);
 }
 
@@ -101,10 +101,6 @@ NAVIGATION
 }
 
 
-
- /*************************************
-PAGE: ABOUT
-**************************************/
 .kayla_and_i {
     max-width: 200px;
 	 height: 200px;
@@ -116,12 +112,6 @@ PAGE: ABOUT
 COLORS
 **************************************/
 
-
- /* green header*/
-  header {
-   background: #6ab47b;
-   border-color: #599a68;
- }
 
 
 
