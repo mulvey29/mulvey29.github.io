@@ -12,6 +12,7 @@ img {
  body {
 	background-image: url(ok.jpg); 
 	background-repeat: repeat-x;
+	background-attachment: fixed;
    font-family: 'Open Sans', sans-serif;
  }
  
