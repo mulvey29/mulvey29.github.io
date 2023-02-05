@@ -1,3 +1,7 @@
+#grad {
+	background-image: linear-gradient(fcfcfc, bcc1f7);
+}
+
 a {
    color: #202fd4;
  }
